@@ -17,7 +17,7 @@
 
 - [📄 Preprint](https://arxiv.org/abs/2412.00814)  
 - [💻 Code](https://github.com/Simulation-Intelligence/VR-Doh)  
-- [📊 User Study](./userstudy.html)  
+- [📊 Project Page](https://simulation-intelligence.github.io/VR-Doh/)  
 
 ## System Requirements
 
